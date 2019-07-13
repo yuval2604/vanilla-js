@@ -1,7 +1,2 @@
 # vanilla-js
-
-
-# branch dev
-
-
-#Final
+vanilla js basics 
